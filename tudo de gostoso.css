@@ -1,0 +1,65 @@
+.logo
+{background-color:orangered;
+text-align: center;
+}
+.bolo{
+background-image: url("hero_bolo.jpg");
+background-size:cover;
+background-position:center;
+height:400px;
+}
+h1{
+margin:75px 0px 75px 200px;
+color:#FF6B27;
+text-align:left;
+}
+h2 {
+color:#FF6B27;
+text-align:left;
+
+}
+
+.List{
+margin:10px 250px 10px 250px;
+text-align:justify;
+margin: center;
+}
+.List:hover{
+cursor:url(cursor_ingredientes.png), auto;
+}
+.botao-laranja a {
+  background-color: #FF6B27; 
+  color: #FFFFFF;
+  text-decoration: none; 
+  padding: 10px 20px; 
+  border-radius: 10px; 
+  display: inline-block; 
+  text-align: center; 
+  margin: 5px 5px 5px 240px;
+}
+.preparo:hover{
+cursor:url(cursor_preparo.png), auto;
+}
+.Instruções:hover{
+cursor: url(cursor_intrucoes.png), auto;
+
+}
+.preparo {
+margin:10px 250px 10px 250px;
+text-align: justify;
+}
+.Instruções{
+margin:10px 250px 10px 250px;
+text-align: justify;
+}
+
+footer{
+text-align:center;
+background-color:#FF6B27;
+color: #FFFFFF;
+height:50px;
+width:auto;
+padding:2px 5px 10px 5px;
+font-size:12px;
+
+}
